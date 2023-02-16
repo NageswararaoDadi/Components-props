@@ -1,0 +1,15 @@
+
+.person-list{
+    list-style-type: none; 
+}
+.person-card{
+    border: 1px solid black;
+    height: 150px;
+    width: 250px;
+    text-align: center;
+    margin: 10px;
+}
+.span-element{
+    color: brown;
+    font-size: 15px;
+}
